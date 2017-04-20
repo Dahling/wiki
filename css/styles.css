@@ -1,0 +1,7 @@
+.sidebar {
+  color: red;
+  height: 100%;
+  position: absolute;
+  list-style-type: none;
+  padding-left: 20px;
+}
